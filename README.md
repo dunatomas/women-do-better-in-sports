@@ -1,6 +1,5 @@
-# Gender Gap in Sports Performance
+# Women Do Better in Sports
 
-**Do women do better?**  
 This project explores how the performance gap between men and women has evolved across time in different sports disciplines, with a special focus on **world records** and moments where **women's records cross past men's records** ("glass ceiling" effect).
 
 The project is part of my Master's Thesis and aims to produce:
